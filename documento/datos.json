@@ -18,20 +18,5 @@
   "codigo": 4,
   "titulo": "bano",
   "estado": "proceso"
- },
- {
-  "codigo": 5,
-  "titulo": "recamara",
-  "estado": "final"
- },
- {
-  "codigo": 6,
-  "titulo": "recemara2",
-  "estado": "final"
- },
- {
-  "codigo": 6,
-  "titulo": "recemara2",
-  "estado": "final"
  }
 ]
